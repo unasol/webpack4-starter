@@ -16,7 +16,6 @@ module.exports = {
   },
   rules: {
     "prettier/prettier": "error",
-    "no-unused-vars": 2,
     "no-undef": 2,
   },
 };
